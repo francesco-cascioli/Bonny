@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/classes/cittadino.ts","./src/classes/incentivo.ts","./src/classes/startup.ts","./src/interfaces/icittadino.ts","./src/interfaces/iincentivo.ts","./src/interfaces/istartup.ts"],"version":"5.9.2"}
