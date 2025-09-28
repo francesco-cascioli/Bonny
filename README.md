@@ -48,18 +48,18 @@ This project simulates a real-world development task and was built from scratch 
 Follow these steps to run the project locally:
 
 1. **Clone the repository**  
-   ```bash
+  
    git clone https://github.com/francesco-cascioli/Bonny.git
    cd Bonny
 Install dependencies
 (only needed if you plan to extend the project with npm packages)
 
-bash
+
 Copia codice
 npm install
 Compile TypeScript
 
-bash
+
 Copia codice
 npx tsc
 Run locally
