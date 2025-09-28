@@ -51,15 +51,16 @@ Follow these steps to run the project locally:
   
    git clone https://github.com/francesco-cascioli/Bonny.git
    cd Bonny
-Install dependencies:
+   
+2. **Install dependencies**
 
 npm install
 
-Compile TypeScript:
+3. **Compile TypeScript**
 
 npx tsc
 
-Run locally:
+4. **Run locally**
 
 Open index.html directly in your browser
 Or use VS Code Live Server extension for a better experience
